@@ -1,1 +1,3 @@
-This should go in the first commit
+This should go in the first commit.
+
+This next line should go in the second commit.
