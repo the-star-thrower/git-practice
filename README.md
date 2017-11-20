@@ -17,3 +17,6 @@ https://mislav.net/2010/07/git-tips/
 
 ## Scott Chacon's "Git Internals" PDF
 https://github.com/pluralsight/git-internals-pdf/releases/tag/v2.0
+
+## Ryan Tomayko's "The Thing About Git"
+https://tomayko.com/blog/2008/the-thing-about-git
