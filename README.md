@@ -14,3 +14,6 @@ https://stackoverflow.com/questions/2530060/can-you-explain-what-git-reset-does-
 
 ## Git tips you didn't know about
 https://mislav.net/2010/07/git-tips/
+
+## Scott Chacon's "Git Internals" PDF
+https://github.com/pluralsight/git-internals-pdf/releases/tag/v2.0
